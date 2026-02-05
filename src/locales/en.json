@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Fitness Tracker",
+    "subtitle": "Track your workouts and progress",
+    "created_by": "Built with Vue.js & vue-i18n"
+  },
+  "workout": {
+    "add_workout": "Add Workout",
+    "add_exercise": "Add Exercise",
+    "workout_name": "Workout Name",
+    "workout_type": "Workout Type",
+    "date": "Date",
+    "duration": "Duration (min)",
+    "calories": "Calories",
+    "notes": "Notes",
+    "no_workouts": "No workouts yet. Add your first workout!",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "exercise": {
+    "name": "Exercise Name",
+    "sets": "Sets",
+    "reps": "Reps",
+    "weight": "Weight (kg)",
+    "rest": "Rest (sec)",
+    "category": "Category"
+  },
+  "categories": {
+    "strength": "Strength",
+    "cardio": "Cardio",
+    "flexibility": "Flexibility",
+    "endurance": "Endurance"
+  },
+  "types": {
+    "full_body": "Full Body",
+    "upper_body": "Upper Body",
+    "lower_body": "Lower Body",
+    "cardio": "Cardio",
+    "hiit": "HIIT",
+    "yoga": "Yoga"
+  },
+  "stats": {
+    "total_workouts": "Total Workouts",
+    "total_exercises": "Total Exercises",
+    "avg_duration": "Avg Duration",
+    "total_calories": "Total Calories",
+    "this_week": "This Week",
+    "this_month": "This Month",
+    "all_time": "All Time"
+  },
+  "goals": {
+    "daily_goal": "Daily Goal",
+    "weekly_goal": "Weekly Goal",
+    "workouts_per_week": "Workouts per Week",
+    "calories_per_workout": "Calories per Workout",
+    "progress": "Progress",
+    "set_goal": "Set Goal"
+  },
+  "language": "Language",
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "buttons": {
+    "add": "Add",
+    "clear": "Clear",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import"
+  },
+  "messages": {
+    "workout_saved": "Workout saved successfully!",
+    "workout_deleted": "Workout deleted",
+    "goal_updated": "Goal updated",
+    "confirm_delete": "Are you sure you want to delete this workout?"
+  }
+}

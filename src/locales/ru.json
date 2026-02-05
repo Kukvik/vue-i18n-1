@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Трекер Тренировок",
+    "subtitle": "Отслеживайте ваши тренировки и прогресс",
+    "created_by": "Создано с Vue.js & vue-i18n"
+  },
+  "workout": {
+    "add_workout": "Добавить Тренировку",
+    "add_exercise": "Добавить Упражнение",
+    "workout_name": "Название тренировки",
+    "workout_type": "Тип тренировки",
+    "date": "Дата",
+    "duration": "Длительность (мин)",
+    "calories": "Калории",
+    "notes": "Заметки",
+    "no_workouts": "Тренировок пока нет. Добавьте первую тренировку!",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "save": "Сохранить",
+    "cancel": "Отмена"
+  },
+  "exercise": {
+    "name": "Название упражнения",
+    "sets": "Подходы",
+    "reps": "Повторения",
+    "weight": "Вес (кг)",
+    "rest": "Отдых (сек)",
+    "category": "Категория"
+  },
+  "categories": {
+    "strength": "Силовая",
+    "cardio": "Кардио",
+    "flexibility": "Гибкость",
+    "endurance": "Выносливость"
+  },
+  "types": {
+    "full_body": "Все тело",
+    "upper_body": "Верх тела",
+    "lower_body": "Низ тела",
+    "cardio": "Кардио",
+    "hiit": "HIIT",
+    "yoga": "Йога"
+  },
+  "stats": {
+    "total_workouts": "Всего тренировок",
+    "total_exercises": "Всего упражнений",
+    "avg_duration": "Средняя длительность",
+    "total_calories": "Всего калорий",
+    "this_week": "Эта неделя",
+    "this_month": "Этот месяц",
+    "all_time": "За все время"
+  },
+  "goals": {
+    "daily_goal": "Дневная цель",
+    "weekly_goal": "Недельная цель",
+    "workouts_per_week": "Тренировок в неделю",
+    "calories_per_workout": "Калорий за тренировку",
+    "progress": "Прогресс",
+    "set_goal": "Установить цель"
+  },
+  "language": "Язык",
+  "theme": {
+    "light": "Светлая",
+    "dark": "Темная"
+  },
+  "buttons": {
+    "add": "Добавить",
+    "clear": "Очистить",
+    "filter": "Фильтр",
+    "export": "Экспорт",
+    "import": "Импорт"
+  },
+  "messages": {
+    "workout_saved": "Тренировка успешно сохранена!",
+    "workout_deleted": "Тренировка удалена",
+    "goal_updated": "Цель обновлена",
+    "confirm_delete": "Вы уверены, что хотите удалить эту тренировку?"
+  }
+}

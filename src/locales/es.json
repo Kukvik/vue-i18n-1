@@ -1,0 +1,79 @@
+{
+  "app": {
+    "title": "Seguimiento de Entrenamiento",
+    "subtitle": "Registra tus entrenamientos y progreso",
+    "created_by": "Creado con Vue.js & vue-i18n"
+  },
+  "workout": {
+    "add_workout": "Añadir Entrenamiento",
+    "add_exercise": "Añadir Ejercicio",
+    "workout_name": "Nombre del Entrenamiento",
+    "workout_type": "Tipo de Entrenamiento",
+    "date": "Fecha",
+    "duration": "Duración (min)",
+    "calories": "Calorías",
+    "notes": "Notas",
+    "no_workouts": "No hay entrenamientos todavía. ¡Añade tu primer entrenamiento!",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  },
+  "exercise": {
+    "name": "Nombre del Ejercicio",
+    "sets": "Series",
+    "reps": "Repeticiones",
+    "weight": "Peso (kg)",
+    "rest": "Descanso (seg)",
+    "category": "Categoría"
+  },
+  "categories": {
+    "strength": "Fuerza",
+    "cardio": "Cardio",
+    "flexibility": "Flexibilidad",
+    "endurance": "Resistencia"
+  },
+  "types": {
+    "full_body": "Cuerpo Completo",
+    "upper_body": "Parte Superior",
+    "lower_body": "Parte Inferior",
+    "cardio": "Cardio",
+    "hiit": "HIIT",
+    "yoga": "Yoga"
+  },
+  "stats": {
+    "total_workouts": "Total Entrenamientos",
+    "total_exercises": "Total Ejercicios",
+    "avg_duration": "Duración Media",
+    "total_calories": "Total Calorías",
+    "this_week": "Esta Semana",
+    "this_month": "Este Mes",
+    "all_time": "Todo el Tiempo"
+  },
+  "goals": {
+    "daily_goal": "Objetivo Diario",
+    "weekly_goal": "Objetivo Semanal",
+    "workouts_per_week": "Entrenamientos por Semana",
+    "calories_per_workout": "Calorías por Entrenamiento",
+    "progress": "Progreso",
+    "set_goal": "Establecer Objetivo"
+  },
+  "language": "Idioma",
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "buttons": {
+    "add": "Añadir",
+    "clear": "Limpiar",
+    "filter": "Filtrar",
+    "export": "Exportar",
+    "import": "Importar"
+  },
+  "messages": {
+    "workout_saved": "¡Entrenamiento guardado exitosamente!",
+    "workout_deleted": "Entrenamiento eliminado",
+    "goal_updated": "Objetivo actualizado",
+    "confirm_delete": "¿Estás seguro de que quieres eliminar este entrenamiento?"
+  }
+}
